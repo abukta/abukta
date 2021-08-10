@@ -5,7 +5,7 @@ import "fmt"
 
 // Main function
 func main() {
-	var a [5]int
+	var a[5] int
 
 	a[4] = 100
 	fmt.Println("set:", a)
