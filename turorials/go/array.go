@@ -5,6 +5,7 @@ import "fmt"
 
 // Main function
 func main() {
+	// Init an int array, size 5
 	var a[5] int
 
 	a[4] = 100
