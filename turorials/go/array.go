@@ -17,7 +17,7 @@ func main() {
 	b := [5] int{1,2,3,4,5}
 	fmt.Println("====\ndcl:", b)
 
-	// Arrays types are one dimensional but can be used 
+	// Array types are one dimensional but can be used 
 	// to compose multi-dimensional data structures
 	var twoDArray [2][3] int
 	for i :=0; i<2; i++{
