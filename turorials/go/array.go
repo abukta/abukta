@@ -25,6 +25,7 @@ func main() {
 			twoDArray [i][j]= i+j
 		}
 	}
+	
 	fmt.Println("2d", twoDArray)
 	
 }
