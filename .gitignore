@@ -1,1 +1,7 @@
 .vscode/launch.json
+turorials-go/.idea/.gitignore
+turorials-go/.idea/modules.xml
+turorials-go/.idea/turorials-go.iml
+turorials-go/.idea/vcs.xml
+.DS_Store
+
